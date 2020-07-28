@@ -1,4 +1,4 @@
-# Hibernate-Relationships
+# Hibernate-Mappings
 # Unidirectional and Bidirectional
 
 
